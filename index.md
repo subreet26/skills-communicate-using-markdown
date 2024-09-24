@@ -6,3 +6,7 @@
 #### I am comfortable using headers, and I am committing the changes
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
